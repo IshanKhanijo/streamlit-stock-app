@@ -1,4 +1,5 @@
 # 🧠 Stock Information, News & Price Prediction App
+## Friendly neighborhood stock investment assistant
 
 This Streamlit app allows users to:
 
