@@ -14,16 +14,15 @@ This Streamlit app allows users to:
 ## 🔍 Example Outputs
 
 ### Company Info + News Feed
-![Company Info](images/company-news.jpg)
+![Company Info](images/company-news.jpg) 
+![Company Info](images/news.jpg) 
+
 
 ### AI-Generated Summary
 ![Summary](images/summary.jpg)
 
-### Historical Stock Price Chart
-![Chart](images/chart.jpg)
-
-### LSTM Prediction Output
-![LSTM](images/lstm.jpg)
+### Historical Stock Price Chart & LSTM Prediction Output
+![Chart](images/chart_prediction.jpg)
 
 ---
 
