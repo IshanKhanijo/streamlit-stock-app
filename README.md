@@ -27,8 +27,8 @@ This Streamlit app allows users to:
 ---
 
 ## 🚀 Try It Live
+🔗 [Click here to launch the app](https://app_name.streamlit.app/)
 
-🔗 [Click here to launch the app](https://app-stock-app-s9a7smxq4txitun4ektzyu.streamlit.app/)
 
 ---
 
